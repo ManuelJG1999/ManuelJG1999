@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manuel Jiménez Garro
+# Hi, I'm Manuel Jiménez Garro
 
 ## 💻 About Me 🌍
 I'm a passionate tech professional from **Costa Rica** with over a decade of experience in **technical support, cloud technologies, and customer service**. My career has been driven by problem-solving, innovation, and collaboration, helping clients and organizations succeed through technology.
@@ -20,7 +20,7 @@ I’m always learning and evolving in the fast-paced tech world. From **winning 
 - **Co-founder** of multiple Web3 projects:
   
   ### 🚜 [Revolutionary Farmers](https://github.com/Crypto-Jaguars)
-  An innovative project focused on **advancing agriculture through escrow services** to financially empower farmers using **blockchain technology**.
+  An innovative project focused on **advancing agriculture through escrow services** to financially empower farmers using **blockchain technology**. And **first place** in the ETH Pura Vida Hackathon, 2024.
   
   ### 📚 [AURORA.LA](https://github.com/AURORALAOrg)
   An **AI-powered language learning platform** that integrates **personalized tutoring, blockchain, and advanced NLP** to enhance learning experiences.
